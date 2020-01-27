@@ -1,0 +1,88 @@
+The double-edged sword of pedagogy: Instruction limits spontaneous
+exploration and discovery
+Elizabeth Bonawitz  Patrick Shafto  Hyowon Gweon Noah D. Goodman Elizabeth Spelke Laura Schulz
+
+a b s t r a c t
+Motivated by computational analyses, we look at how teaching affects exploration and discovery.
+In Experiment 1, we investigated children’s exploratory play after an adult pedagogically
+demonstrated a function of a toy, after an interrupted pedagogical
+demonstration, after a naïve adult demonstrated the function, and at baseline. Preschoolers
+in the pedagogical condition focused almost exclusively on the target function; by contrast,
+children in the other conditions explored broadly. In Experiment 2, we show that children
+restrict their exploration both after direct instruction to themselves and after overhearing
+direct instruction given to another child; they do not show this constraint after observing
+direct instruction given to an adult or after observing a non-pedagogical intentional action.
+We discuss these findings as the result of rational inductive biases. In pedagogical contexts,
+a teacher’s failure to provide evidence for additional functions provides evidence for their
+absence; such contexts generalize from child to child (because children are likely to have
+comparable states of knowledge) but not from adult to child. Thus, pedagogy promotes
+efficient learning but at a cost: children are less likely to perform potentially irrelevant
+actions but also less likely to discover novel information.
+
+Introduction
+Two competing intuitions animate longstanding debates
+over children’s learning: that children learn primarily
+from helpful, informative others (through testimony or
+‘‘direct instruction’’; Csibra & Gergely, 2009; Gergely,
+Király, & Egyed, 2007; Koenig & Harris, 2005; Kushnir,
+Wellman, & Gelman, 2008; Tomasello & Barton, 1994;
+Vygotsky, 1978), and that, especially in the early years,
+children learn chiefly through their own active exploration
+of the environment (‘‘constructivist’’ or ‘‘discovery learning’’;
+Bonawitz, Lim, & Schulz, 2007; Bonawitz & Schulz,
+in preparation; Bruner, Jolly, & Sylva, 1976; Gweon &
+Schulz, 2008; Piaget, 1929; Schulz & Bonawitz, 2007;
+Singer, Golinkoff, & Hirsh-Pasek, 2008). Here we suggest
+that the tension between learning from others and from
+self-guided exploration stems in part from a principled
+trade-off at the heart of pedagogical learning. Teaching2
+produces an inductive bias that constrains children’s
+hypothesis space for better and for worse: in promoting rapid
+and efficient learning of target material, pedagogical
+instruction necessarily limits the range of hypotheses children
+consider.
+Our inquiry is motivated by an ideal learner analysis—
+what should a student infer from evidence given by a helpful
+teacher? Recent research has formalized pedagogical
+learning as an inference based on the paired assumptions
+that a learner will rationally update her belief in a hypothesis
+given new data (from a pedagogical demonstration)
+and that a teacher will choose data (a particular demonstration)
+likely to increase the learner’s belief in the correct
+hypothesis (Shafto & Goodman, 2008; Shafto, Goodman, &
+Griffiths, in preparation). In what follows, we present details
+of our Bayesian analysis and two experiments motivated
+from this analysis, exploring the consequences of
+pedagogical inference on preschool-aged children’s exploration
+and discovery.
+An ideal learner will update her beliefs rationally given
+the demonstration (or data), d, as described by Bayes’
+theorem:
+PL›hjdﬁ / P›djhﬁPL›hﬁ: ›1ﬁ
+In Eq. (1), PL(h) represents the learner’s prior beliefs in a
+hypothesis h. The term P(d|h), called the likelihood or sampling
+assumption, captures the learner’s assumption about
+the source of the data. If the learner did not believe the
+data were chosen by a helpful teacher, then we would
+use a default sampling assumption in Eq. (1): PD(d|h). This
+default will depend on the situation, and captures the natural
+source of evidence in the absence of a teacher (e.g. by
+random exploration). However, if the learner assumes that
+a helpful teacher has chosen the data, we must use a pedagogical
+sampling assumption:
+PL›hjdﬁ / PT ›djhﬁPL›hﬁ; ›10ﬁ
+PT ›djhﬁ / PL›hjdﬁ; ›2ﬁ
+Eq. (2) captures the idea that the data are chosen by the
+teacher in such a way that they will increase the probability
+that the learner assigns to the correct hypothesis. Note
+that the teacher’s choice of data depends in turn on the
+assumption that the learner will rationally update her beliefs.
+Eqs. (10) and (2), and the default sampling assumption,
+define a system of equations that provides a model
+of how having a teacher should affect a learner’s inferences.
+Intuitively, one can imagine beginning with the
+inferences the learner would draw under the default sampling
+assumption, then using Eqs. (10) and (2) iteratively to
+‘‘strengthen’’ these inferences into the ideal pedagogical
+inferences. (See Shafto & Goodman, 2008; Shafto et al., in
+preparation, for further discussion.)
